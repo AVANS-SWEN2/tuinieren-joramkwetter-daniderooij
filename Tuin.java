@@ -27,7 +27,7 @@ class Tuin {
 
         } while (!input.equalsIgnoreCase("JA"));
         System.out.println(slangetje.getHoseBrand());
-        
+        // test van Joram 
 
     }
 }
