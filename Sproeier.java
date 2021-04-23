@@ -11,10 +11,15 @@ public class Sproeier {
 
     public void sproeien ()
     {
-        System.out.println("Aan het sproeien.");  
+        System.out.println("Aan het sproeien."); 
     }
 
     public void testMethod(){
         system.out.println("test");
+    }
+
+    public void staatieAan{
+        system.out.println("staat ie aan?" + SproeierAan);
+
     }
 }
