@@ -13,4 +13,8 @@ public class Sproeier {
     {
         System.out.println("Aan het sproeien.");  
     }
+
+    public void testMethod(){
+        system.out.println("test");
+    }
 }
