@@ -1,5 +1,6 @@
 public class Sproeier {
     private String merk ;
+    public boolean SproeierAan;
     public Sproeier() {
         super();
         merk = "Gardena";
