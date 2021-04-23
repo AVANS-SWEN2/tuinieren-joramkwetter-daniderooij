@@ -12,4 +12,8 @@ public class Sproeier {
     {
         System.out.println("Aan het sproeien.");  
     }
+
+    public void testMethod(){
+        System.out.println("this is a change");
+    }
 }
